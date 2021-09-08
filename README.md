@@ -1,4 +1,4 @@
-<img align="right" height="400" width="300" src="">
+<img align="right" height="400" width="300" src="never stop learning.png">
 <h1 align="center">Hi 👋, I'm Deepali Bolsekar</h1>
 <h3 align="center">Always ready for Challenges and Adventures.</h3>
 
