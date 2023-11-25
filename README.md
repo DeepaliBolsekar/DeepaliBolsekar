@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Web Security and Cyber Security stuff**
 
-- 💬 Ask me about **JS, Python, Full stack Web, Web Security, PHP**
+- 💬 Ask me about **Python, MySQL, Red Hat Enterprise Linux, Cisco Networking, AWS, Cyber Security**
 
 - 📫 How to reach me **bolsekardeepali@gmail.com**
 
